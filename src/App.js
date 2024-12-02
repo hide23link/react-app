@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          <h1>Fease 3</h1>
+          <h1>Fease 4</h1>
           this app is Amplify at react.
         </p>
        
